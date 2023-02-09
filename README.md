@@ -3,7 +3,7 @@
 <h1>GET ALL CUSTOMERS</h1>
 <h3>http://localhost:8080/api/v1/customers</h3>
 
-<h1>POST ALL CUSTOMER</h1>
+<h1>POST CUSTOMER</h1>
 <h3>http://localhost:8080/api/v1/customers</h3>
 
 <h1>PUT CUSTOMER</h1>
